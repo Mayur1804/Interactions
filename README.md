@@ -1,63 +1,64 @@
-````markdown
+
+
+
+
 # 🧰 Meta Quest Interaction SDK – Unreal Engine Demo Project
 
-This project demonstrates core features of Meta’s **Interaction SDK** using **Unreal Engine 5.5**. It covers Grab, Poke, and Ray-based interactions, all set up and optimized for **Meta Quest 2, 3, and 3s** devices.
+This project showcases core features of Meta’s **Interaction SDK** using **Unreal Engine 5.5**. It's designed for **Meta Quest 2, 3, and 3s** devices, demonstrating Grab, Poke, and Ray-based interactions.
 
----
+-----
 
 ## 📦 Project Overview
 
-This Unreal project includes:
+This Unreal Engine project provides a comprehensive demonstration, including:
 
-- ✅ Grab interaction (hands and controllers)  
-- ✅ Poke interaction (touch-based UI, buttons)  
-- ✅ Ray interaction (laser-based selection)  
-- ✅ Fully configured input mappings and pawn setup  
-- ✅ Ready-to-deploy for Android (Quest devices)
+  * **Grab Interaction:** Supports both hand and controller-based grabbing.
+  * **Poke Interaction:** Enables touch-based UI interactions, ideal for buttons.
+  * **Ray Interaction:** Facilitates laser-based selection for distant objects.
+  * **Pre-configured Setup:** Fully set up with input mappings and pawn configurations.
+  * **Ready for Deployment:** Optimized and ready to deploy for Android (Meta Quest devices).
 
----
+-----
 
 ## ⚙️ Versions Used
 
-| Tool/Plugin            | Version |
-|------------------------|---------|
-| Unreal Engine          | 5.5     |
-| Meta Interaction SDK   | v77     |
+| Tool/Plugin          | Version |
+| :------------------- | :------ |
+| Unreal Engine        | 5.5.4     |
+| Meta Interaction SDK | v77     |
 
----
+-----
 
 ## 📘 Course Reference
 
-This project is part of the [**"XR Mastery with Meta Quest and Unreal Engine 5.5"**](#) course on **Udemy**.
+This project serves as a practical component of the **"XR Mastery with Meta Quest and Unreal Engine 5.5"** course on **Udemy**.
 
-🎓 Learn how to build immersive XR apps from scratch using Unreal Engine and Meta’s SDKs.  
-📚 Full course link: *Coming Soon*
+  * **Course Link:** *Coming Soon*
 
----
+-----
 
 ## 🚀 How to Use
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/Mayur1804/Interactions
-````
+1.  **Clone the Repository:**
+    ```bash
+    git clone https://github.com/Mayur1804/Interactions
+    ```
+-----
 
-## 📌 Notes
-* This repository will be updated over time with new features, fixes, and improvements
+### 📌 Notes
 
----
+  * This repository will receive ongoing updates, including new features, fixes, and improvements as long as course evolves.
+
+-----
 
 ## 📩 Stay Connected
 
-* 🔗 Udemy Course: [UnrealMayur](https://www.youtube.com/@UnrealMayur)
-* 🔗 LinkedIn: [Mayur Sai Kollipara](https://www.linkedin.com/in/mayur-sai-/)
-* 📺 YouTube: [UnrealMayur](https://www.youtube.com/@UnrealMayur)
-* 📰 Blog: [xrvlogs.com](https://xrvlogs.com)
+  * **LinkedIn:** [Mayur Sai Kollipara](https://www.google.com/search?q=https://www.linkedin.com/in/mayursaikollipara)
+  * **YouTube:** [UnrealMayur](https://www.google.com/search?q=https://www.youtube.com/%40UnrealMayur)
+  * **Blog:** [xrvlogs.com](https://www.google.com/search?q=https://www.xrvlogs.com/)
 
+-----
 
----
+Made with ❤️ by Mayur Sai Kollipara
 
-Made with ❤️ by **Mayur Sai Kollipara**
-
-```
-```
+-----
