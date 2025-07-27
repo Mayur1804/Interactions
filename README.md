@@ -40,11 +40,8 @@ This project is part of the [**"XR Mastery with Meta Quest and Unreal Engine 5.5
 
 ---
 
-## 🚀 How to Use
+## Clone Repo - https://github.com/Mayur1804/Interactions.git
 
-Clone the repository:
-   ```bash
-   git clone https://github.com/Mayur1804/Interactions
 
 📩 Stay Connected
 🎓 Udemy Course: XR Mastery with Meta Quest
