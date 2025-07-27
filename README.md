@@ -1,3 +1,4 @@
+````markdown
 # 🧰 Meta Quest Interaction SDK – Unreal Engine Demo Project
 
 This project demonstrates core features of Meta’s **Interaction SDK** using **Unreal Engine 5.5**. It covers Grab, Poke, and Ray-based interactions, all set up and optimized for **Meta Quest 2, 3, and 3s** devices.
@@ -34,21 +35,29 @@ This project is part of the [**"XR Mastery with Meta Quest and Unreal Engine 5.5
 
 ---
 
-## 🌐 Related Resources
+## 🚀 How to Use
 
-- 📰 XR Development Blog: [xrvlogs.com](https://xrvlogs.com)
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Mayur1804/Interactions
+````
+
+## 📌 Notes
+* This repository will be updated over time with new features, fixes, and improvements
 
 ---
 
-## Clone Repo - https://github.com/Mayur1804/Interactions.git
+## 📩 Stay Connected
+
+* 🔗 Udemy Course: [UnrealMayur](https://www.youtube.com/@UnrealMayur)
+* 🔗 LinkedIn: [Mayur Sai Kollipara](https://www.linkedin.com/in/mayur-sai-/)
+* 📺 YouTube: [UnrealMayur](https://www.youtube.com/@UnrealMayur)
+* 📰 Blog: [xrvlogs.com](https://xrvlogs.com)
 
 
-📩 Stay Connected
-🎓 Udemy Course: XR Mastery with Meta Quest
+---
 
-📰 Blog: xrvlogs.com
+Made with ❤️ by **Mayur Sai Kollipara**
 
-🔗 LinkedIn: Mayur Sai Kollipara
-
-📺 YouTube: UnrealMayur
-
+```
+```
