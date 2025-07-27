@@ -1,6 +1,3 @@
-You're right, Mayur! Let’s update the **“Stay Connected”** section to include your LinkedIn and YouTube profiles along with the rest. Here’s the improved final version of your `README.md`:
-
----
 
 ````markdown
 # 🧰 Meta Quest Interaction SDK – Unreal Engine Demo Project
@@ -90,9 +87,4 @@ Feel free to **star**, **fork**, or **contribute** to the project!
 
 Made with ❤️ by **Mayur Sai Kollipara**
 
-```
-
----
-
-This version is complete and optimized for GitHub. Let me know if you'd like me to include badges (like "Made with UE 5.5", "Built for Quest 3", etc.) or a license file as well.
 ```
