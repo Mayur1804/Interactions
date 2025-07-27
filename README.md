@@ -1,98 +1,47 @@
-# \# 🧰 Meta Quest Interaction SDK – Unreal Engine Demo Project
+# 🧰 Meta Quest Interaction SDK – Unreal Engine Demo Project
 
-# 
+This project demonstrates core features of Meta’s **Interaction SDK** using **Unreal Engine 5.5**. It covers Grab, Poke, and Ray-based interactions, all set up and optimized for **Meta Quest 2, 3, and 3s** devices.
 
-# This project demonstrates core features of Meta’s \*\*Interaction SDK\*\* using \*\*Unreal Engine 5.5\*\*. It covers Grab, Poke, and Ray-based interactions, all set up and optimized for \*\*Meta Quest 2, 3, and 3s\*\* devices.
+---
 
-# 
+## 📦 Project Overview
 
-# ---
+This Unreal project includes:
 
-# 
+- ✅ Grab interaction (hands and controllers)
+- ✅ Poke interaction (touch-based UI, buttons)
+- ✅ Ray interaction (laser-based selection)
+- ✅ Fully configured input mappings and pawn setup
+- ✅ Ready-to-deploy for Android (Quest devices)
 
-# \## 📦 Project Overview
+---
 
-# 
+## ⚙️ Versions Used
 
-# This Unreal project includes:
+| Tool/Plugin            | Version |
+|------------------------|---------|
+| Unreal Engine          | 5.5     |
+| Meta Interaction SDK   | v77     |
 
-# \- ✅ Grab interaction (hands and controllers)
+---
 
-# \- ✅ Poke interaction (touch-based UI, buttons)
+## 📘 Course Reference
 
-# \- ✅ Ray interaction (laser-based selection)
+This project is part of the [**"XR Mastery with Meta Quest and Unreal Engine 5.5"**](#) course on **Udemy**.
 
-# \- ✅ Fully configured input mappings and pawn setup
+🎓 Learn how to build immersive XR apps from scratch using Unreal Engine and Meta’s SDKs.  
+📚 Full course link: *Coming Soon*
 
-# \- ✅ Ready-to-deploy for Android (Quest devices)
+---
 
-# 
+## 🌐 Related Resources
 
-# ---
+- 📰 XR Development Blog: [xrvlogs.com](https://xrvlogs.com)
 
-# 
+---
 
-# \## ⚙️ Versions Used
+## 🚀 How to Use
 
-# 
-
-# | Tool/Plugin            | Version     |
-
-# |------------------------|-------------|
-
-# | Unreal Engine          | 5.5         |
-
-# | Meta Interaction SDK   | v77         |
-
-# 
-
-# ---
-
-# 
-
-# \## 📘 Course Reference
-
-# 
-
-# This project is part of the \[\*\*"XR Mastery with Meta Quest and Unreal Engine 5.5"\*\*](#) course on \*\*Udemy\*\*.
-
-# 
-
-# 🎓 Learn how to build immersive XR apps from scratch using Unreal Engine and Meta’s SDKs.  
-
-# 📚 Full course link: \*Coming Soon\*
-
-# 
-
-# ---
-
-# 
-
-# \## 🌐 Related Resources
-
-# 
-
-# \- 📰 XR Development Blog: \[xrvlogs.com](https://xrvlogs.com)
-
-# 
-
-# ---
-
-# 
-
-# \## 🚀 How to Use
-
-# 
-
-# 1\. Clone the repository:
-
-# &nbsp;  ```bash
-
-# &nbsp;  git clone https://github.com/Mayur1804/Interactions
-
-# 
-
-# 
-
-
-
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Mayur1804/Interactions
