@@ -1,5 +1,3 @@
-
-````markdown
 # 🧰 Meta Quest Interaction SDK – Unreal Engine Demo Project
 
 This project demonstrates core features of Meta’s **Interaction SDK** using **Unreal Engine 5.5**. It covers Grab, Poke, and Ray-based interactions, all set up and optimized for **Meta Quest 2, 3, and 3s** devices.
@@ -86,5 +84,3 @@ Feel free to **star**, **fork**, or **contribute** to the project!
 ---
 
 Made with ❤️ by **Mayur Sai Kollipara**
-
-```
