@@ -88,7 +88,7 @@
 
 # &nbsp;  ```bash
 
-# &nbsp;  git clone https://github.com/your-username/interaction-sdk-demo.git
+# &nbsp;  git clone https://github.com/Mayur1804/Interactions
 
 # 
 
