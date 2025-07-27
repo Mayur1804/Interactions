@@ -8,10 +8,10 @@ This project demonstrates core features of Meta’s **Interaction SDK** using **
 
 This Unreal project includes:
 
-- ✅ Grab interaction (hands and controllers)
-- ✅ Poke interaction (touch-based UI, buttons)
-- ✅ Ray interaction (laser-based selection)
-- ✅ Fully configured input mappings and pawn setup
+- ✅ Grab interaction (hands and controllers)  
+- ✅ Poke interaction (touch-based UI, buttons)  
+- ✅ Ray interaction (laser-based selection)  
+- ✅ Fully configured input mappings and pawn setup  
 - ✅ Ready-to-deploy for Android (Quest devices)
 
 ---
@@ -42,45 +42,16 @@ This project is part of the [**"XR Mastery with Meta Quest and Unreal Engine 5.5
 
 ## 🚀 How to Use
 
-1. Clone the repository:
+Clone the repository:
    ```bash
    git clone https://github.com/Mayur1804/Interactions
-````
 
-2. Open the project in **Unreal Engine 5.5**
-3. Enable Meta plugins and Interaction SDK (v77)
-4. Package for Android using ASTC compression
-5. Deploy and test on your Meta Quest device
+📩 Stay Connected
+🎓 Udemy Course: XR Mastery with Meta Quest
 
----
+📰 Blog: xrvlogs.com
 
-## 📌 Notes
+🔗 LinkedIn: Mayur Sai Kollipara
 
-* Make sure Meta XR Plugin and Interaction SDK are enabled
-* Project is set up for mobile deployment out of the box
-* Avoid dynamic shadows and complex post-processing for best performance
+📺 YouTube: UnrealMayur
 
----
-
-## 🔄 Ongoing Updates
-
-I will be updating this repository over time with:
-
-* 🧪 New interaction types
-* 🐞 Bug fixes and performance improvements
-* 📁 Additional demo scenes and documentation
-
-Feel free to **star**, **fork**, or **contribute** to the project!
-
----
-
-## 📩 Stay Connected
-
-* 🎓 Udemy Course: [XR Mastery with Meta Quest](#)
-* 📰 Blog: [xrvlogs.com](https://xrvlogs.com)
-* 🔗 LinkedIn: [Mayur Sai Kollipara](https://www.linkedin.com/in/mayur-sai-/)
-* 📺 YouTube: [UnrealMayur](https://www.youtube.com/@UnrealMayur)
-
----
-
-Made with ❤️ by **Mayur Sai Kollipara**
